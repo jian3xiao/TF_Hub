@@ -13,12 +13,12 @@
 生成图像
 ```
 
-![img](fake_10000.png) 
+ ![img](fake_10000.png) 
 
 ```
 真实图像
 ```
 
-![img](real_10000.png) 
+ ![img](real_10000.png) 
 
 
