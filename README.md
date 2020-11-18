@@ -9,8 +9,16 @@
 
 下面展示生成的图像和真实的图像
 
- <div align="center">![img](fake_10000.png) 生成图像 </div>
+```
+生成图像
+```
 
- <div align="center">![img](real_10000.png) 真实图像 </div>
+![img](fake_10000.png) 
+
+```
+真实图像
+```
+
+![img](real_10000.png) 
 
 
